@@ -1,22 +1,14 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Banner](Documentation/banner.png)
 
 #  Clima
 
-## Our Goal
+A dark-mode enabled weather app using OpenWeather API to display a chosen location's weather and/or your current GPS location's weather.
 
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
-
-
-## What you will create
-
-By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
-
-## What you will learn
+## Concepts learned during this project
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
-* Learn to use the UITextField to get user input. 
+* How to use the UITextField to get user input. 
 * Learn about the delegate pattern.
 * Swift protocols and extensions. 
 * Swift guard keyword. 
@@ -48,8 +40,3 @@ switch conditionID {
             return "cloud"
         }
 ```
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-# Clima
