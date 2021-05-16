@@ -40,3 +40,8 @@ switch conditionID {
             return "cloud"
         }
 ```
+
+
+## License
+
+  [MIT](LICENSE)
